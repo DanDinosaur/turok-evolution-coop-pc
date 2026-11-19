@@ -17,7 +17,7 @@ A native Windows build of the co-op mod. It runs on its own: no Xbox, no emulato
 
 ### Install
 
-1. Download **`turok-evolution-coop-pc-v1.0.zip`** from the **Releases** page (right side of this page).
+1. Download **[turok-evolution-coop-pc-v1.0.zip](turok-evolution-coop-pc-v1.0.zip)**: click it, then click the **Download raw file** button (the download icon on the right).
 2. Before unzipping, right-click the zip, choose **Properties**, tick **Unblock** if you see it, then click **OK**.
 3. Unzip it to a folder of its own, for example `C:\Games\TurokCoop`.
 4. Put your game next to the program:
